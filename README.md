@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brent-watkins
+- 👀 I’m interested in web application development and mobile applications
+- 🌱 I’m currently learning JavaScript, Python, and Angular
+- 📫 How to reach me: brent.n.watkins@gmail.com
