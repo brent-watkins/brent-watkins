@@ -7,4 +7,7 @@ These passions have led me to become experienced with **JavaScript**, **React.js
 🎯 One of my personal goals is to learn new skills and improve my current skills each day.
 As part of this goal, I am learning **TypeScript**, **Vue.js**, **Node.js**, **React Native**, and **Design Patterns** that enhance the quality and design of applications I am working on.
 
+📝 You can view a project I collaborated on here:
+https://github.com/thehale/threejs-dice-screensaver
+
 📲 You can reach me at brent.n.watkins@gmail.com
